@@ -34,5 +34,5 @@ Users can request access to, correction of, or deletion of their personal data b
 
 For questions about this privacy policy or to exercise your data rights, contact:
 
-**Eric at Freeboard Asset Management**  
-Email: eric@freeboardasset.com
+**Admin at Freeboard Asset Management**  
+Email: privacy@freeboardasset.com
